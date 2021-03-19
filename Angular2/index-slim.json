@@ -1,0 +1,12 @@
+{
+  "name": "ng-book 2 code directory",
+  "description": "This file is an index of the sample code",
+  "chapters": [
+    {
+      "name": "Writing your First Angular 2 Web Application",
+      "examples": [
+        "first_app/angular2_hello_world"
+      ]
+    }
+  ]
+}

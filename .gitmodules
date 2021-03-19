@@ -1,0 +1,3 @@
+[submodule "Angular2"]
+	path = Angular2
+	url = https://github.com/AngularLovers/Angular2.git
